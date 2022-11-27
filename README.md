@@ -3,4 +3,4 @@
 - Creación de una cuenta de GitHub.
 - Creación de un repositorio.
 - Añadido un archivo readme con comentarios sobre la actividad realizada.
-- Añadido archivo en Python tipo "Hola-Mundo".
+- Añadido archivo "Hola-Mundo" en Python.
